@@ -1,9 +1,9 @@
 # Advanced Labs React Tutorial
 
 ## Start up
-* Clone this repo to your desktop
-* Run `yarn ` or `npm install` to install dependencies
+* Clone this repo to your computer
 * Navigate into the directory "voting-app"
+* Run `yarn ` or `npm install` to install dependencies
 * Ensure it is working using `yarn start` or `npm start` and navigating to the webpage
 
 ## Building The App
