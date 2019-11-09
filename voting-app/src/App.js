@@ -13,7 +13,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
   }
-  
+
   render() {
     return (
       <div>
@@ -38,5 +38,3 @@ const styles = {
 }
 
 export default App;
-//style={{ flex: 1, flexDirection: 'row'}}
-// style={{ display: 'inline-flex', flexDirection: 'row' }
